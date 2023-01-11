@@ -1,0 +1,46 @@
+.main-box 
+{
+    display: flex;
+    flex-wrap: wrap;
+    /*gap: 1rem;*/
+}
+
+.left-box 
+{
+    flex: 2;
+    font-size: 130%;
+    padding: 25px;
+    /*margin: 20px;*/
+    text-align: left;
+    background-color: rgba(32, 32, 32, 0.767);
+    /*flex-grow: 1; */ 
+    min-width: 250px;
+}
+
+.rigth-box 
+{
+    font-size: 110%;
+    padding: 25px;
+    text-align: left;
+    background-color: rgba(190, 190, 190, 0.808);
+    min-width: 250px;
+}
+
+.bloque
+{
+    diplay: block;
+    padding: 15px;
+    overflow: hidden;
+}
+
+center
+{
+    justify-content: center;
+    align-items: center;
+}
+
+img 
+{
+    border-radius: 50%;
+}
+  
