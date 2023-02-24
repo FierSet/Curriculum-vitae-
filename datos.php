@@ -9,7 +9,7 @@
                              "C. 19 #204 Col. Revolución., 76118, Querétaro"
                             ];
     $datos_p["cel"] = ["<i class='fa-solid fa-mobile-screen'></i>", #icono
-                       "442-635-2142"
+                       ""
                       ];
     $datos_p["mail"] = ["<i class='fa-solid fa-envelope'></i>", 
                         "miguel-011998@hotmail.com"
