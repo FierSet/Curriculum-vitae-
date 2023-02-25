@@ -6,7 +6,7 @@
     
     $datos_p["nombre"] = [$mi_imagen, $mi_nombre];
     $datos_p["direccion"] = ["<i class='fa-sharp fa-solid fa-location-dot'></i>", #icono
-                             "C. 19 #204 Col. Revolución., 76118, Querétaro"
+                             "Mexico, Querétaro."
                             ];
     $datos_p["cel"] = ["<i class='fa-solid fa-mobile-screen'></i>", #icono
                        ""
